@@ -1,5 +1,6 @@
 ## Syaf's simple calculator using defined methods.
 
+
 def addition
   puts "\n Enter the first number to add"
     #the variable 'one' can be used again in other methods because its local to the method its in.
